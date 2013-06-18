@@ -6,11 +6,36 @@
 Welcome to learn-django-unittest's documentation!
 =================================================
 
+Learn Django Unittest will cover all the basic information anyone needs to know
+to get up and running with testing in Django
+
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+Getting Started
+---------------
+
+If you're new to Haystack, you may want to start with these documents to get
+you up and running:
+
+.. toctree::
+   :maxdepth: 2
+
+.. toctree::
+   :maxdepth: 1
+
+   Jargon
+
+References
+----------
+
+These are some content I have found useful
+
+.. toctree::
+   :maxdepth: 2
 
 
 Indices and tables

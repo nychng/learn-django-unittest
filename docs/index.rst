@@ -6,11 +6,54 @@
 Welcome to learn-django-unittest's documentation!
 =================================================
 
-Contents:
+Learn Django Unittest will cover all the basic information anyone needs to know
+to get up and running with testing in Django.
+
+Background
+----------
 
 .. toctree::
    :maxdepth: 2
 
+.. toctree::
+   :maxdepth: 1
+
+   Jargon
+   Why Test?
+   Testing Philosophies
+
+Serverside Testing
+------------------
+
+.. toctree::
+   :maxdepth: 2
+
+.. toctree::
+   :maxdepth: 1
+
+   Django Vanilla
+   Django Libraries
+   Tips
+   Continuous Integration
+
+Clientside Testing
+------------------
+
+.. toctree::
+   :maxdepth: 2
+
+.. toctree::
+   :maxdepth: 1
+
+   Selenium
+
+References
+----------
+
+These are some content I have found useful
+
+.. toctree::
+   :maxdepth: 2
 
 
 Indices and tables
